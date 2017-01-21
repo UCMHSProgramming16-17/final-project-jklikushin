@@ -1,0 +1,3 @@
+Alabama,89.3%
+Alaska,75.6%
+Arizona,77.4%
